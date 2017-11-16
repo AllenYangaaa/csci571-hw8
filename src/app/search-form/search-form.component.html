@@ -1,0 +1,60 @@
+<!--<p>-->
+  <!--search-form works!-->
+<!--</p>-->
+<div class="container">
+  <div class="card bg-light mb-3">
+    <div class="card-body">
+      <h4>Stock Market Search</h4>
+      <div class="card-text">
+        <form [formGroup]="stockForm" (ngSubmit)="onSubmit()" novalidate>
+          <div class="form-group">
+            <div class="row">
+              <div class="col-3">
+                <label class="center-block" for="name">
+                  Enter Stock Ticker Symbol:<span style="color: red">*</span>
+                </label>
+              </div>
+              <div class="col-6">
+                <input id="name" class="form-control" formControlName="name" [matAutocomplete]="auto">
+                <mat-autocomplete #auto="matAutocomplete">
+                  <mat-option *ngFor="let option of options" [value]="option.name">
+                    {{ option.disp }}
+                  </mat-option>
+                </mat-autocomplete>
+                <div *ngIf="stockForm.invalid && (stockForm.dirty || stockForm.touched)"
+                     class="alert alert-danger">
+                  Please enter a stock ticker symbol.
+                </div>
+              </div>
+              <div class="col-3">
+                <div style="margin-left: 1em">
+                  <button type="submit"
+                          [disabled]="stockForm.invalid" class="btn btn-primary">
+                    <i class="fa fa-search" aria-hidden="true"></i>Get Quote
+                  </button> &nbsp;
+                  <button type="button" class="btn btn-secondary" (click)="clear()">
+                    <i class="fa fa-refresh" aria-hidden="true"></i>Clear
+                  </button>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
+        </form>
+        <!--<p>Form value: {{ stockForm.get('name').value | json}}</p>-->
+        <!--<p>Form status: {{ stockForm.status | json}}</p>-->
+      </div>
+      <!--<div *ngIf="stockSymbol">-->
+        <!--<p>Got stock symbol: {{stockSymbol}}</p>-->
+      <!--</div>-->
+      <!--<div *ngIf="debugInfo" class="card-text">-->
+        <!--{{debugInfo}}-->
+      <!--</div>-->
+    </div>
+  </div>
+</div>
+
+
+

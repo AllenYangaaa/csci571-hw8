@@ -1,0 +1,4 @@
+<div class="parent" [@slide]="activePane">
+  <div class="child"><app-favor-list (toSlide)="switchPanel($event)"></app-favor-list></div>
+  <div class="child"><app-stock-detail (toSlide)="switchPanel($event)"></app-stock-detail></div>
+</div>

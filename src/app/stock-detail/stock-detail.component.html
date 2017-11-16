@@ -1,0 +1,37 @@
+<div class="container ">
+  <div class="card bg-light mb-3">
+    <div class="card-header">
+      <div class="row">
+        <div class="float-left">
+          <button type="button" class="btn btn-sm" (click)="slidePanel()">
+            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+          </button>
+        </div>
+        <div class="mx-auto"><b>Stock Detail</b></div>
+      </div>
+
+    </div>
+    <div class="card-body">
+      <h4 class="card-title">Stock Detail Section</h4>
+      <ngb-tabset type="pills">
+        <ngb-tab title="Stock Detail">
+          <ng-template ngbTabContent>
+            <app-current-stock></app-current-stock>
+          </ng-template>
+        </ngb-tab>
+        <ngb-tab>
+          <ng-template ngbTabTitle>Historical Chart</ng-template>
+          <ng-template ngbTabContent>
+            <app-historical-chart></app-historical-chart>
+          </ng-template>
+        </ngb-tab>
+        <ngb-tab>
+          <ng-template ngbTabTitle>News Feed</ng-template>
+          <ng-template ngbTabContent>
+            <app-news-feed-section></app-news-feed-section>
+          </ng-template>
+        </ngb-tab>
+      </ngb-tabset>
+    </div>
+  </div>
+</div>

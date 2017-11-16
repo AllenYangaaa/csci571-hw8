@@ -1,0 +1,14 @@
+:host {
+  display: block;
+  overflow: hidden;
+}
+.parent {
+  height: 100%;
+  width: 200%;
+  display: flex;
+  div { flex: 1; }
+}
+
+.child {
+  width: 100%;
+}
