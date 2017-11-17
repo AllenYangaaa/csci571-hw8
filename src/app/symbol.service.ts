@@ -1,5 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Subject} from "rxjs/Subject";
+import {Observable} from "rxjs/Observable";
+import { HttpClient, HttpHeaders } from "@angular/common/http";
 
 @Injectable()
 export class SymbolService {
@@ -14,6 +16,16 @@ export class SymbolService {
     this.symbolChange.next(this.symbol);
   }
 
-  constructor() { }
+  constructor(
+    private http: HttpClient
+  ) { }
+
+  getNews(name: string): Observable<any> {
+    return this.http.get<Object>('/api?name=' + name + '&type=news');
+  }
+
+  getStock(name: string): Observable<any> {
+    return this.http.get<Object>('/api?name=' + name + '&type=stock');
+  }
 
 }

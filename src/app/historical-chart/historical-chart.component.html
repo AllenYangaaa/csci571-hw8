@@ -1,3 +1,7 @@
-<div class="container panel">
-  <h1>Historical chart</h1>
+<div class="container">
+  <div *ngIf="!dataReady" class="progress mt-3">
+    <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+  </div>
+  <chart *ngIf="dataReady" type="StockChart" [options]="options"></chart>
 </div>
+

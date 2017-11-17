@@ -14,19 +14,20 @@
     <div class="card-body">
       <h4 class="card-title">Stock Detail Section</h4>
       <ngb-tabset type="pills">
-        <ngb-tab title="Stock Detail">
+        <ngb-tab>
+          <ng-template ngbTabTitle><i class="fa fa-clock-o" aria-hidden="true"></i>Stock Detail</ng-template>
           <ng-template ngbTabContent>
             <app-current-stock></app-current-stock>
           </ng-template>
         </ngb-tab>
         <ngb-tab>
-          <ng-template ngbTabTitle>Historical Chart</ng-template>
+          <ng-template ngbTabTitle><i class="fa fa-bar-chart" aria-hidden="true"></i>Historical Chart</ng-template>
           <ng-template ngbTabContent>
             <app-historical-chart></app-historical-chart>
           </ng-template>
         </ngb-tab>
         <ngb-tab>
-          <ng-template ngbTabTitle>News Feed</ng-template>
+          <ng-template ngbTabTitle><i class="fa fa-link" aria-hidden="true"></i>News Feed</ng-template>
           <ng-template ngbTabContent>
             <app-news-feed-section></app-news-feed-section>
           </ng-template>

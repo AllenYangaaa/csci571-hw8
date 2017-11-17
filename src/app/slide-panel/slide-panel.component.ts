@@ -2,6 +2,7 @@ import {ChangeDetectionStrategy, Component, OnInit, ViewEncapsulation, Input} fr
 import {
   animate, state, style, transition, trigger
 } from '@angular/animations';
+import { SymbolService } from "../symbol.service";
 
 @Component({
   selector: 'app-slide-panel',
@@ -20,7 +21,14 @@ export class SlidePanelComponent implements OnInit {
 
   @Input() activePane: PaneType = 'left';
 
-  constructor() {
+  constructor(
+    public symbolService : SymbolService
+  ) {
+    symbolService.symbolChange$.subscribe(
+      symbol => {
+        this.switchPanel('right');
+      }
+    );
   }
 
   ngOnInit() {

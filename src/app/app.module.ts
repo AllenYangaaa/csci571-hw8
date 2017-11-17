@@ -5,6 +5,9 @@ import { ReactiveFormsModule} from "@angular/forms";
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { HttpClientModule } from "@angular/common/http";
+import { ChartModule } from 'angular2-highcharts';
+import { HighchartsStatic } from 'angular2-highcharts/dist/HighchartsService';
+
 
 import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import {MatFormFieldModule} from '@angular/material/form-field';
@@ -22,6 +25,19 @@ import { AutoCompleteListService} from "./auto-complete-list.service";
 import { SymbolService } from './symbol.service';
 import { SlidePanelComponent } from './slide-panel/slide-panel.component';
 
+declare var require: any;
+export function highchartsFactory() {
+//return require('highcharts');
+  const hc = require('highcharts');
+  const dd = require('highcharts/modules/drilldown');
+  const ex = require('highcharts/modules/exporting');
+  const st = require('highcharts/modules/stock');
+
+  dd(hc);
+  ex(hc);
+  st(hc);
+  return hc;
+}
 
 @NgModule({
   declarations: [
@@ -43,9 +59,17 @@ import { SlidePanelComponent } from './slide-panel/slide-panel.component';
     HttpClientModule,
     MatAutocompleteModule,
     MatFormFieldModule,
-    MatInputModule
+    MatInputModule,
+    ChartModule
   ],
-  providers: [AutoCompleteListService, SymbolService],
+  providers: [
+    AutoCompleteListService,
+    SymbolService,
+    {
+      provide: HighchartsStatic,
+      useFactory: highchartsFactory
+    }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

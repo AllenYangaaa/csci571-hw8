@@ -1,0 +1,988 @@
+{
+  "rss": {
+    "xmlns:sa": "https://seekingalpha.com/api/1.0",
+    "xmlns:media": "http://search.yahoo.com/mrss/",
+    "version": "2.0",
+    "channel": {
+      "title": "Alphabet Inc. - News and Analysis on Seeking Alpha",
+      "link": "https://seekingalpha.com",
+      "description": "© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited.",
+      "item": [
+        {
+          "title": "Firefox picks Google as default search",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3312291"
+          },
+          "pubDate": "Wed, 15 Nov 2017 03:05:06 -0500",
+          "sa:author_name": "Yoel Minkoff",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "VZ",
+              "sa:company_name": "Verizon Communications"
+            }
+          ]
+        },
+        {
+          "title": "Appaloosa's portfolio updates include tech movers",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3312213"
+          },
+          "pubDate": "Tue, 14 Nov 2017 16:57:56 -0500",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "MU",
+              "sa:company_name": "Micron Technology Inc."
+            },
+            {
+              "sa:symbol": "BABA",
+              "sa:company_name": "Alibaba Group Holding Limited"
+            },
+            {
+              "sa:symbol": "FB",
+              "sa:company_name": "Facebook"
+            },
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "AMAT",
+              "sa:company_name": "Applied Materials, Inc."
+            },
+            {
+              "sa:symbol": "ATVI",
+              "sa:company_name": "Activision Blizzard, Inc"
+            }
+          ]
+        },
+        {
+          "title": "Top portfolio adds and drops from Eminence Capital",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3312200"
+          },
+          "pubDate": "Tue, 14 Nov 2017 16:50:51 -0500",
+          "sa:author_name": "Clark Schultz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "JACK",
+              "sa:company_name": "Jack In The Box Inc."
+            },
+            {
+              "sa:symbol": "NKE",
+              "sa:company_name": "Nike Inc."
+            },
+            {
+              "sa:symbol": "NEWR",
+              "sa:company_name": "New Relic"
+            },
+            {
+              "sa:symbol": "EFX",
+              "sa:company_name": "Equifax Inc."
+            },
+            {
+              "sa:symbol": "EXPE",
+              "sa:company_name": "Expedia, Inc."
+            },
+            {
+              "sa:symbol": "WEN",
+              "sa:company_name": "The Wendy's Company"
+            },
+            {
+              "sa:symbol": "P",
+              "sa:company_name": "Pandora Media"
+            },
+            {
+              "sa:symbol": "CYBR",
+              "sa:company_name": "CyberArk Software Ltd."
+            },
+            {
+              "sa:symbol": "DNKN",
+              "sa:company_name": "Dunkin' Brands"
+            },
+            {
+              "sa:symbol": "WWE",
+              "sa:company_name": "World Wrestling Entertainment, Inc."
+            },
+            {
+              "sa:symbol": "TAP",
+              "sa:company_name": "Molson Coors Brewing Company"
+            },
+            {
+              "sa:symbol": "BIDU",
+              "sa:company_name": "Baidu, Inc."
+            },
+            {
+              "sa:symbol": "ZNGA",
+              "sa:company_name": "Zynga"
+            },
+            {
+              "sa:symbol": "STZ",
+              "sa:company_name": "Constellation Brands, Inc."
+            },
+            {
+              "sa:symbol": "LEN",
+              "sa:company_name": "Lennar Corporation"
+            },
+            {
+              "sa:symbol": "PTC",
+              "sa:company_name": "PTC Inc."
+            }
+          ]
+        },
+        {
+          "title": "HTC and Google cancel US launch of Vive-brand Daydream VR headset",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3311944"
+          },
+          "pubDate": "Tue, 14 Nov 2017 09:24:22 -0500",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Nvidia And Google's Waymo: Why Own These 2 Self-Driving Car Leaders?",
+          "link": "https://seekingalpha.com/article/4124417-nvidia-googles-waymo-2-self-driving-car-leaders?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4124417"
+          },
+          "pubDate": "Mon, 13 Nov 2017 15:49:03 -0500",
+          "sa:author_name": "Silicon Valley Insights",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "NVDA",
+              "sa:company_name": "NVIDIA Corporation"
+            }
+          ]
+        },
+        {
+          "title": "Missouri AG investigating Google for antitrust violations",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3311514"
+          },
+          "pubDate": "Mon, 13 Nov 2017 11:35:39 -0500",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Google will fix Pixel 2 XL touchscreen issue in software update",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3311502"
+          },
+          "pubDate": "Mon, 13 Nov 2017 11:01:13 -0500",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "EU preparing next fine on Google",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3311295"
+          },
+          "pubDate": "Sun, 12 Nov 2017 07:24:39 -0500",
+          "sa:author_name": "Yoel Minkoff",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Alphabet: Valuation Update After Quarterly Results",
+          "link": "https://seekingalpha.com/article/4122485-alphabet-valuation-update-quarterly-results?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4122485"
+          },
+          "pubDate": "Wed, 08 Nov 2017 15:48:57 -0500",
+          "sa:author_name": "Oleh Kombaiev",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Kroger bypasses Amazon for cloud investing",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3309916"
+          },
+          "pubDate": "Wed, 08 Nov 2017 13:40:07 -0500",
+          "sa:author_name": "Clark Schultz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "KR",
+              "sa:company_name": "Kroger Co."
+            },
+            {
+              "sa:symbol": "MSFT",
+              "sa:company_name": "Microsoft Corporation"
+            },
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "AMZN",
+              "sa:company_name": "Amazon.com, Inc."
+            }
+          ]
+        },
+        {
+          "title": "Google's Cloud Win With Salesforce: Why It's Important",
+          "link": "https://seekingalpha.com/article/4122232-googles-cloud-win-salesforce-important?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4122232"
+          },
+          "pubDate": "Wed, 08 Nov 2017 10:55:47 -0500",
+          "sa:author_name": "Gary Bourgeault",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Waymo announces driverless test program in Phoenix, accepting ride hails soon",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3309176"
+          },
+          "pubDate": "Tue, 07 Nov 2017 11:35:48 -0500",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Latest cloud pals: Salesforce, Google",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3308897"
+          },
+          "pubDate": "Tue, 07 Nov 2017 05:34:35 -0500",
+          "sa:author_name": "Yoel Minkoff",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "CRM",
+              "sa:company_name": "Salesforce.com, Inc."
+            },
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "MSFT",
+              "sa:company_name": "Microsoft Corporation"
+            }
+          ]
+        },
+        {
+          "title": "Bloomberg: Judge Alsup dismisses patent, co-defendant in Waymo's Uber case",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3308169"
+          },
+          "pubDate": "Fri, 03 Nov 2017 09:44:07 -0400",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "UBER",
+              "sa:company_name": "Uber"
+            }
+          ]
+        },
+        {
+          "title": "Tech firms voice support for 'Dreamers'",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3307147"
+          },
+          "pubDate": "Thu, 02 Nov 2017 04:01:24 -0400",
+          "sa:author_name": "Yoel Minkoff",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "FB",
+              "sa:company_name": "Facebook"
+            },
+            {
+              "sa:symbol": "AIRB",
+              "sa:company_name": "Airbnb, Inc."
+            },
+            {
+              "sa:symbol": "MSFT",
+              "sa:company_name": "Microsoft Corporation"
+            },
+            {
+              "sa:symbol": "CRM",
+              "sa:company_name": "Salesforce.com, Inc."
+            },
+            {
+              "sa:symbol": "LYFT",
+              "sa:company_name": "Lyft"
+            },
+            {
+              "sa:symbol": "UBER",
+              "sa:company_name": "Uber"
+            },
+            {
+              "sa:symbol": "TWTR",
+              "sa:company_name": "Twitter, Inc."
+            }
+          ]
+        },
+        {
+          "title": "Alphabet Wants To Monetize YouTube As The Next Big Thing",
+          "link": "https://seekingalpha.com/article/4119273-alphabet-wants-monetize-youtube-next-big-thing?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4119273"
+          },
+          "pubDate": "Wed, 01 Nov 2017 18:32:31 -0400",
+          "sa:author_name": "Sramana Mitra",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Google shuts off airfare data feed; Muddy Waters wants Google IDs",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3306749"
+          },
+          "pubDate": "Wed, 01 Nov 2017 15:02:02 -0400",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "EXPE",
+              "sa:company_name": "Expedia, Inc."
+            },
+            {
+              "sa:symbol": "TRIP",
+              "sa:company_name": "TripAdvisor Inc."
+            }
+          ]
+        },
+        {
+          "title": "Social media on the Hill: Still measuring Russia problem",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3306363"
+          },
+          "pubDate": "Tue, 31 Oct 2017 17:07:03 -0400",
+          "sa:author_name": "Jason Aycock",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "FB",
+              "sa:company_name": "Facebook"
+            },
+            {
+              "sa:symbol": "TWTR",
+              "sa:company_name": "Twitter, Inc."
+            }
+          ]
+        },
+        {
+          "title": "Google launches $2K Hangout Meet kit, new Google Cloud offerings",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3306211"
+          },
+          "pubDate": "Tue, 31 Oct 2017 14:34:14 -0400",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "The Scariest Investments In Today's Market",
+          "link": "https://seekingalpha.com/article/4118501-scariest-investments-todays-market?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4118501"
+          },
+          "pubDate": "Tue, 31 Oct 2017 11:33:49 -0400",
+          "sa:author_name": "Eric Parnell, CFA",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "AAPL",
+              "sa:company_name": "Apple Inc."
+            },
+            {
+              "sa:symbol": "AMLP",
+              "sa:company_name": "ALPS Alerian MLP ETF"
+            },
+            {
+              "sa:symbol": "AMZN",
+              "sa:company_name": "Amazon.com, Inc."
+            },
+            {
+              "sa:symbol": "BND",
+              "sa:company_name": "Vanguard Total Bond Market ETF"
+            },
+            {
+              "sa:symbol": "COIN",
+              "sa:company_name": "Winklevoss Bitcoin Trust ETF"
+            },
+            {
+              "sa:symbol": "DIA",
+              "sa:company_name": "SPDR Dow Jones Industrial Average ETF"
+            },
+            {
+              "sa:symbol": "EEM",
+              "sa:company_name": "iShares MSCI Emerging Markets ETF"
+            },
+            {
+              "sa:symbol": "FB",
+              "sa:company_name": "Facebook"
+            },
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "HYG",
+              "sa:company_name": "iShares iBoxx $ High Yield Corporate Bond ETF"
+            },
+            {
+              "sa:symbol": "IBB",
+              "sa:company_name": "iShares Nasdaq Biotechnology ETF"
+            },
+            {
+              "sa:symbol": "JNK",
+              "sa:company_name": "SPDR Bloomberg Barclays High Yield Bond ETF"
+            },
+            {
+              "sa:symbol": "MSFT",
+              "sa:company_name": "Microsoft Corporation"
+            },
+            {
+              "sa:symbol": "PCY",
+              "sa:company_name": "PowerShares Emerging Markets Sovereign Debt Portfolio ETF"
+            },
+            {
+              "sa:symbol": "SPY",
+              "sa:company_name": "SPDR S&P 500 Trust ETF"
+            },
+            {
+              "sa:symbol": "TSLA",
+              "sa:company_name": "Tesla Motors"
+            },
+            {
+              "sa:symbol": "USDU",
+              "sa:company_name": "WisdomTree Bloomberg U.S. Dollar Bullish ETF"
+            },
+            {
+              "sa:symbol": "UUP",
+              "sa:company_name": "PowerShares DB USD Bull ETF"
+            },
+            {
+              "sa:symbol": "XLK",
+              "sa:company_name": "Technology Select Sector SPDR ETF"
+            },
+            {
+              "sa:symbol": "XLY",
+              "sa:company_name": "Consumer Discretionary Select Sector SPDR ETF"
+            },
+            {
+              "sa:symbol": "QQQ",
+              "sa:company_name": "PowerShares QQQ Trust ETF"
+            },
+            {
+              "sa:symbol": "IVV",
+              "sa:company_name": "iShares Core S&P 500 ETF"
+            },
+            {
+              "sa:symbol": "AGG",
+              "sa:company_name": "iShares Core Total U.S. Bond Market ETF"
+            },
+            {
+              "sa:symbol": "VOO",
+              "sa:company_name": "Vanguard S&P 500 ETF"
+            }
+          ]
+        },
+        {
+          "title": "Alphabet ditched autopilot feature",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3305897"
+          },
+          "pubDate": "Tue, 31 Oct 2017 03:52:34 -0400",
+          "sa:author_name": "Yoel Minkoff",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Alphabet's Earnings: High Profitability Even As Key Metrics Worsen",
+          "link": "https://seekingalpha.com/article/4118233-alphabets-earnings-high-profitability-even-key-metrics-worsen?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4118233"
+          },
+          "pubDate": "Mon, 30 Oct 2017 15:24:15 -0400",
+          "sa:author_name": "Integer Investments",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Is It Too Late To Buy Alphabet?",
+          "link": "https://seekingalpha.com/article/4118216-late-buy-alphabet?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4118216"
+          },
+          "pubDate": "Mon, 30 Oct 2017 14:43:28 -0400",
+          "sa:author_name": "Andres Cardenal, CFA",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Google Should Enter Customer Service",
+          "link": "https://seekingalpha.com/article/4118080-google-enter-customer-service?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4118080"
+          },
+          "pubDate": "Mon, 30 Oct 2017 12:13:19 -0400",
+          "sa:author_name": "Richard Gordon",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "AAPL",
+              "sa:company_name": "Apple Inc."
+            },
+            {
+              "sa:symbol": "AMZN",
+              "sa:company_name": "Amazon.com, Inc."
+            },
+            {
+              "sa:symbol": "FB",
+              "sa:company_name": "Facebook"
+            },
+            {
+              "sa:symbol": "MSFT",
+              "sa:company_name": "Microsoft Corporation"
+            },
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Facebook, Twitter, Google head to third Capitol Hill hearing Tuesday",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3305393"
+          },
+          "pubDate": "Fri, 27 Oct 2017 16:38:58 -0400",
+          "sa:author_name": "Jason Aycock",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "FB",
+              "sa:company_name": "Facebook"
+            },
+            {
+              "sa:symbol": "TWTR",
+              "sa:company_name": "Twitter, Inc."
+            }
+          ]
+        },
+        {
+          "title": "Alphabet Is Back On The Saddle Again",
+          "link": "https://seekingalpha.com/article/4117482-alphabet-back-saddle?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4117482"
+          },
+          "pubDate": "Fri, 27 Oct 2017 14:59:16 -0400",
+          "sa:author_name": "D.M. Martins Research",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Alphabet Belongs Way Above $1,000",
+          "link": "https://seekingalpha.com/article/4117308-alphabet-belongs-way-1000?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4117308"
+          },
+          "pubDate": "Fri, 27 Oct 2017 12:03:18 -0400",
+          "sa:author_name": "Stone Fox Capital",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": [
+            {
+              "sa:symbol": "GOOGL",
+              "sa:company_name": "Alphabet Inc."
+            },
+            {
+              "sa:symbol": "GOOG",
+              "sa:company_name": "Alphabet Inc."
+            }
+          ]
+        },
+        {
+          "title": "Analysts raise Alphabet price targets after earnings report",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3305269"
+          },
+          "pubDate": "Fri, 27 Oct 2017 10:13:11 -0400",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": {
+            "sa:symbol": "GOOG",
+            "sa:company_name": "Alphabet Inc."
+          }
+        },
+        {
+          "title": "Alphabet (GOOG) Q3 2017 Results - Earnings Call Transcript",
+          "link": "https://seekingalpha.com/article/4117116-alphabet-goog-q3-2017-results-earnings-call-transcript?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/Article:4117116"
+          },
+          "pubDate": "Thu, 26 Oct 2017 21:21:23 -0400",
+          "sa:author_name": "SA Transcripts",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": {
+            "sa:symbol": "GOOG",
+            "sa:company_name": "Alphabet Inc."
+          }
+        },
+        {
+          "title": "Google up after Q3 beats, growths in TAC and paid clicks, drop in cost-per-click",
+          "link": "https://seekingalpha.com/symbol/GOOG/news?source=feed_symbol_GOOG",
+          "guid": {
+            "isPermaLink": "false",
+            "$t": "https://seekingalpha.com/MarketCurrent:3304868"
+          },
+          "pubDate": "Thu, 26 Oct 2017 16:34:03 -0400",
+          "sa:author_name": "Brandy Betz",
+          "media:thumbnail": {
+            "url": ""
+          },
+          "sa:picture": {},
+          "sa:stock": {
+            "sa:symbol": "GOOG",
+            "sa:company_name": "Alphabet Inc."
+          }
+        }
+      ]
+    }
+  }
+}

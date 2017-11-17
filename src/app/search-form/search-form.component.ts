@@ -17,12 +17,7 @@ export class SearchFormComponent implements OnInit {
 
   debugInfo = [];
 
-  options: any[] = [
-    {
-      name: 'test',
-      disp: 'test - initial'
-    }
-  ];
+  options: any[] = [];
 
 
 

@@ -1,3 +1,26 @@
-<div class="container panel">
-  <h1>News feed section</h1>
+<div class="container">
+  <div *ngIf="!hasNews">
+    <h1>News feed section</h1>
+    <div class="progress">
+      <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+  </div>
+  <div *ngIf="hasNews">
+    <div class="card mt-3 item" *ngFor="let item of news">
+      <div class="card-body">
+        <h5 class="card-title title">
+          <a href="{{item.link}}">{{item.title}}</a>
+        </h5>
+        <p class="card-text">
+          <br>
+          <b>Author: {{item.author}}</b>
+          <br>
+          <br>
+          <b>Date: {{item.date}}</b>
+          <br>
+        </p>
+      </div>
+
+    </div>
+  </div>
 </div>
